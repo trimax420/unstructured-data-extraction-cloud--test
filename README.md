@@ -4,5 +4,5 @@ We would like to express our deepest gratitude to all those who contributed to t
 
 ### Contributors
 
-- [Bhavya Chanana](https://github.com/bhavya-chanana)
-- [Govind Anjan](https://github.com/trimax420)
+- Bhavya Chanana - [github](https://github.com/bhavya-chanana) - [Linkedin](https://www.linkedin.com/in/bhavya-chanana)
+- Govind Anjan - [github](https://github.com/trimax420) - [Linkedin](https://www.linkedin.com/in/anjancs/)
